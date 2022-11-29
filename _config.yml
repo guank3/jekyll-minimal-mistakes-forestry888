@@ -1,6 +1,6 @@
 ---
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: neon
+minimal_mistakes_skin: default
 locale: en-US
 title: Minimal Mistakes Forestry Starter
 title_separator: "-"
